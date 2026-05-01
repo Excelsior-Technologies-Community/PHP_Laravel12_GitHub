@@ -344,3 +344,7 @@ PHP_Laravel12_GitHub
 ---
 
 Your PHP_Laravel12_GitHub Project is now ready!
+<<<<<<< HEAD
+=======
+
+>>>>>>> development
